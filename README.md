@@ -16,7 +16,7 @@ Below are the prerequisite understanding and programs that were utilized :
 
 ## Deployed link
 
-[Live site](https://mtbanh.github.io/project2-updated-portfolio)
+[Live site](https://mtbanh.github.io/React-Portfolio/)
 ---
 
 ## Author
