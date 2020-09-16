@@ -15,7 +15,7 @@ let resumeData = {
         },
  
     ], 
-     "aboutme": " currently completing a Full Stack Web Developer Bootcamp with UC Berkeley",
+     "aboutme": " UC Berkeley Full Stack Web Development Bootcamp Graduate",
      "resume" : "https://docs.google.com/document/d/1KAqYa_4fjjXm_Rk5CpDK68VE2UQrI1cJfDUHNsdCHVw/edit?usp=sharing",
      "address" : "Bay Area San Francisco",
      "email" : "banhtmai@gmail.com",
