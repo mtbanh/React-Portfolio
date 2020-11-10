@@ -33,7 +33,7 @@ export default class About extends Component {
                            <br></br>
                            <span>{resumeData.email}</span>
                            <br></br>
-                           <span> <a href="https://docs.google.com/document/d/1KAqYa_4fjjXm_Rk5CpDK68VE2UQrI1cJfDUHNsdCHVw/edit?usp=sharing"
+                           <span> <a href="https://docs.google.com/document/d/1wTSMlZnfGjRMKBiYBHhpKWQW0G6HdgUHtHLxyj3dim4/edit?usp=sharing"
                               target="_blank">Click to see my resume</a></span>
                         </p>
                      </div>
